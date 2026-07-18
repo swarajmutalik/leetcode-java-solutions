@@ -17,7 +17,7 @@ I'm preparing for software engineering and cybersecurity roles by strengthening 
 
 ## Language
 
-- Java
+- Java, SQL
 
 ## Progress
 
