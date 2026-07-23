@@ -2,7 +2,7 @@
 
 Hi, I'm Swaraj.
 
-This repository contains my Java solutions to LeetCode problems.
+This repository contains my Java,some SQL solutions to LeetCode problems.
 
 ## Why this repository?
 
@@ -21,10 +21,10 @@ I'm preparing for software engineering and cybersecurity roles by strengthening 
 
 ## Progress
 
-Easy: 102
+Easy: 109
 Medium: 4
 Hard: 0
 
-Total Solved: 106
+Total Solved: 113
 
 Happy Coding! 🚀
