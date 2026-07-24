@@ -1,0 +1,14 @@
+class Solution {
+    public int minOperations(int[] nums) {
+        int count = 0;
+
+        for(int i = 1; i < nums.length; i++){
+            if(nums[i] <= nums[i - 1]){
+                int required = nums[i - 1] + 1;
+                count += required - nums[i];
+                nums[i] = required;
+            }
+        }
+        return count;
+    }
+}
